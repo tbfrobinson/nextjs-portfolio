@@ -1,0 +1,7 @@
+/* define classes here */
+/* CANNOT do element selectors here  */
+.body {
+    height: 100%;
+    width: 100%;
+    background-color: red;
+}
